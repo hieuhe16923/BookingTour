@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "65ee7cfd6b4e35a3fab71279"
+  },
+  "productId": "6159d3e293b42a001fcd4d76",
+  "username": "user123",
+  "reviewText": "Great tour! Amazing experience.",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "65ee7cfd6b4e35a3fab7127a"
+  },
+  "productId": "6159d3e293b42a001fcd4d76",
+  "username": "user456",
+  "reviewText": "Enjoyed the tour. Highly recommended.",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "65ee7cfd6b4e35a3fab7127b"
+  },
+  "productId": "6159d3e293b42a001fcd4d77",
+  "username": "user789",
+  "reviewText": "Could be better. Average experience.",
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "65eeacf81c42c5245b4799d1"
+  },
+  "username": "hieudeptrais1tg",
+  "reviewText": "ok",
+  "rating": 4,
+  "createdAt": {
+    "$date": "2024-03-11T07:04:24.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T07:04:24.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eff1a8241b3e178fc148c7"
+  },
+  "username": "hieudeptrais1tg",
+  "reviewText": "Đẹp thế nhở",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2024-03-12T06:09:44.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-12T06:09:44.456Z"
+  },
+  "__v": 0
+}]

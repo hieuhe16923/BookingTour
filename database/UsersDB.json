@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65ee7dd478b1badc43c71a5f"
+  },
+  "username": "hieudeptrais1tg",
+  "email": "hieu123@gmail.com",
+  "password": "$2a$10$IQzlUzkK2O5PchnkK6WQsOGDnPhmmUFcsxAMNX9guXsa7TJMIrqZy",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-03-11T03:43:16.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T05:39:01.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efac37a811d850416044c7"
+  },
+  "username": "abc",
+  "email": "abc@gmail.com",
+  "password": "$2a$10$pLUSwACJSt8LuE05hvceEu8LL15YVRmSBNfSlorq7jHPjifqaLcXa",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-03-12T01:13:27.825Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-12T02:15:27.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efb2fda811d850416044e9"
+  },
+  "username": "hehe",
+  "email": "hehehe@gmail.com",
+  "password": "$2a$10$yUwJIb3vUeew8sP1ztONDuKDmNzl7Q8nJzIO1faAc3V8OGrsmhhjy",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-03-12T01:42:21.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-12T01:42:21.834Z"
+  },
+  "__v": 0
+}]

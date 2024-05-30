@@ -1,0 +1,292 @@
+[{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17317a"
+  },
+  "title": "Ha Long Bay",
+  "city": "Quang Ninh",
+  "address": "Ha Long City",
+  "distance": 10,
+  "photo": "https://bcp.cdnchinhphu.vn/344443456812359680/2023/3/9/halong-16783543829461323593123.jpg",
+  "desc": "Explore the stunning limestone karsts and emerald waters of Ha Long Bay.",
+  "price": 50,
+  "maxGroupSize": 15,
+  "reviews": [
+    {
+      "$oid": "65eff1a8241b3e178fc148c7"
+    }
+  ],
+  "featured": true,
+  "updatedAt": {
+    "$date": "2024-03-12T06:09:44.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17317b"
+  },
+  "title": "Hoi An Ancient Town",
+  "city": "Quang Nam",
+  "address": "Hoi An City",
+  "distance": 10,
+  "photo": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/chua-cau-hoi-an-3-1.jpg",
+  "desc": "Discover the charm of Hoi An's well-preserved ancient architecture and lantern-lit streets.",
+  "price": 40,
+  "maxGroupSize": 20,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17317c"
+  },
+  "title": "Ho Chi Minh Mausoleum",
+  "city": "Hanoi",
+  "address": "Ba Dinh Square",
+  "distance": 10,
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/L%C4%83ng_B%C3%A1c_-_NKS.jpg",
+  "desc": "Pay respects to the revered leader of Vietnam, Ho Chi Minh, at his imposing mausoleum.",
+  "price": 45,
+  "maxGroupSize": 50,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17317d"
+  },
+  "title": "Sapa Rice Terraces",
+  "city": "Lao Cai",
+  "address": "Sapa District",
+  "distance": 10,
+  "photo": "https://www.sapa-tour.net/wp-content/uploads/2014/08/Rice-Terrace-Sapa.jpg",
+  "desc": "Trek through the picturesque rice terraces and villages of Sapa, offering stunning views.",
+  "price": 60,
+  "maxGroupSize": 10,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17317e"
+  },
+  "title": "Mui Ne Sand Dunes",
+  "city": "Binh Thuan",
+  "address": "Phan Thiet City",
+  "distance": 20,
+  "photo": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_728/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ildpwe90atcyruspvm1k/2D1NMuiNe-PhanThietTourfromHoChiMinhwithDayTourOption.jpg",
+  "desc": "Experience the surreal landscape of red and white sand dunes in Mui Ne.",
+  "price": 25,
+  "maxGroupSize": 20,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17317f"
+  },
+  "title": "Phong Nha-Ke Bang National Park",
+  "city": "Quang Binh",
+  "address": "Son Trach Commune",
+  "distance": 20,
+  "photo": "https://statics.vinwonders.com/Phong-Nha-Ke-Bang-National-Park-02_1678776818.jpg",
+  "desc": "Explore the stunning caves and limestone formations in this UNESCO World Heritage Site.",
+  "price": 45,
+  "maxGroupSize": 15,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173180"
+  },
+  "title": "Nha Trang Beach",
+  "city": "Khanh Hoa",
+  "address": "Nha Trang City",
+  "distance": 20,
+  "photo": "https://bcp.cdnchinhphu.vn/344443456812359680/2022/12/27/nhattrang3-16721128389061596602579.jpg",
+  "desc": "Relax on the white sandy beaches and enjoy the clear blue waters of Nha Trang.",
+  "price": 10,
+  "maxGroupSize": 30,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173181"
+  },
+  "title": "Cu Chi Tunnels",
+  "city": "Ho Chi Minh City",
+  "address": "Cu Chi District",
+  "distance": 20,
+  "photo": "https://puluongexcursions.com/wp-content/uploads/2023/02/cu_chi.jpg",
+  "desc": "Discover the intricate network of tunnels used by the Viet Cong during the Vietnam War.",
+  "price": 35,
+  "maxGroupSize": 25,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173182"
+  },
+  "title": "Da Nang Dragon Bridge",
+  "city": "Da Nang",
+  "address": "Da Nang City",
+  "distance": 20,
+  "photo": "https://static.vinwonders.com/2022/12/Dragon-Bridge-thumb.jpg",
+  "desc": "Witness the impressive Dragon Bridge, known for its colorful lights and fire-breathing display.",
+  "price": 90,
+  "maxGroupSize": 50,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173183"
+  },
+  "title": "Tam Coc - Bich Dong",
+  "city": "Ninh Binh",
+  "address": "Ninh Hai Commune",
+  "distance": 20,
+  "photo": "https://nld.mediacdn.vn/2020/1/21/dscf1346-15795703859661689119850.jpg",
+  "desc": "Take a boat ride through the scenic landscapes of Tam Coc and explore ancient caves.",
+  "price": 30,
+  "maxGroupSize": 20,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173184"
+  },
+  "title": "Hoan Kiem Lake",
+  "city": "Hanoi",
+  "address": "Hoan Kiem District",
+  "distance": 20,
+  "photo": "https://danangprivatecar.com/wp-content/uploads/2023/10/The-ancient-beauty-of-the-Turtle-Tower-on-Hoan-Kiem-Lake-974x530.jpeg",
+  "desc": "Stroll around the serene Hoan Kiem Lake and visit Ngoc Son Temple located on an island.",
+  "price": 100,
+  "maxGroupSize": 50,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173185"
+  },
+  "title": "Vinh Moc Tunnels",
+  "city": "Quang Tri",
+  "address": "Vinh Linh District",
+  "distance": 20,
+  "photo": "https://huescooterrental.com/wp-content/uploads/2018/02/1.jpg",
+  "desc": "Explore the underground tunnels used as shelters during the Vietnam War.",
+  "price": 25,
+  "maxGroupSize": 15,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173186"
+  },
+  "title": "Mui Ne Beach",
+  "city": "Binh Thuan",
+  "address": "Phan Thiet City",
+  "distance": 20,
+  "photo": "https://vcdn1-dulich.vnecdn.net/2022/07/29/muine-1659059278-5222-16590594-9037-6291-1659068912.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tzc1fgx29gobuD3qWKJfgA",
+  "desc": "Relax on the sandy shores of Mui Ne Beach and witness its famous sand dunes.",
+  "price": 15,
+  "maxGroupSize": 30,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173187"
+  },
+  "title": "Imperial City, Hue",
+  "city": "Thua Thien-Hue",
+  "address": "Hue City",
+  "distance": 20,
+  "photo": "https://silkpathhotel.com/wp-content/uploads/2023/11/silkpath-hue-imperial-citadel-1-scaled.jpg",
+  "desc": "Discover the ancient citadel of Hue, a UNESCO World Heritage Site.",
+  "price": 25,
+  "maxGroupSize": 20,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173188"
+  },
+  "title": "Mui Ne Fishing Village",
+  "city": "Binh Thuan",
+  "address": "Phan Thiet City",
+  "distance": 20,
+  "photo": "https://statics.vinwonders.com/Mui-Ne-fishing-village-01_1686548835.jpg",
+  "desc": "Experience the vibrant local life and witness traditional fishing activities in Mui Ne.",
+  "price": 50,
+  "maxGroupSize": 50,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa173189"
+  },
+  "title": "Cat Ba Island",
+  "city": "Hai Phong",
+  "address": "Cat Ba Town",
+  "distance": 20,
+  "photo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cat_Ba_town.JPG",
+  "desc": "Explore the pristine beaches and rugged landscapes of Cat Ba Island, a gateway to Halong Bay.",
+  "price": 35,
+  "maxGroupSize": 25,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17318a"
+  },
+  "title": "Thien Mu Pagoda",
+  "city": "Hue",
+  "address": "Huong Long Ward",
+  "distance": 20,
+  "photo": "https://statics.vinwonders.com/thien-mu-pagoda-1_1677600758.jpg",
+  "desc": "Visit the iconic seven-story pagoda and enjoy panoramic views of the Perfume River.",
+  "price": 10,
+  "maxGroupSize": 30,
+  "reviews": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17318b"
+  },
+  "title": "Con Dao Islands",
+  "city": "Ba Ria-Vung Tau",
+  "address": "Con Dao District",
+  "distance": 20,
+  "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477523581.jpg?k=27c69eb9e95f1fcf05cae34c5fbcb9bd8b1f010790894fb88720458071bb2eb4&o=&hp=1",
+  "desc": "Discover the untouched beauty of the Con Dao Islands, known for their pristine beaches and coral reefs.",
+  "price": 55,
+  "maxGroupSize": 15,
+  "reviews": [],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "65efbbc9c432bdabaa17318c"
+  },
+  "title": "Phu Quoc Island",
+  "city": "Kien Giang",
+  "address": "Phu Quoc City",
+  "distance": 20,
+  "photo": "https://a.cdn-hotels.com/gdcs/production125/d570/3bb24ad6-7baf-4721-a49e-0a16e9395bf1.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+  "desc": "https://a.cdn-hotels.com/gdcs/production125/d570/3bb24ad6-7baf-4721-a49e-0a16e9395bf1.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+  "price": 60,
+  "maxGroupSize": 20,
+  "reviews": [],
+  "featured": true
+}]
